@@ -3,3 +3,6 @@ const double height8 = 8;
 const double fontSize16 = 16;
 const double height64 = 64;
 const double padding16 = 16;
+const double radius8 = 8;
+
+
